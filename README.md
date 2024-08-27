@@ -1,6 +1,8 @@
 # teamprotocols
 Generate paring cards/team protocols from chess results downloadable XML file for team events. This enables both the player name and team name to be shown on the paring card. The template will be populated as follows:
 
+![Template](https://github.com/kms-kms-kms/teamprotocol/blob/main/Protocol%20Template.png)
+
 ## How to use
 1. Download the XSLM file
 2. Authorise the file to enable macros
