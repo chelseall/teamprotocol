@@ -12,7 +12,3 @@ Generate paring cards/team protocols from chess results downloadable XML file fo
 
 ## Adjust the template
 The template can be adjusted in the "Template" sheet.
-
-## Contact the following with questions
-DM: @chelsealliang
-Whatsapp: +852 63313501
